@@ -1,2 +1,0 @@
-# codestats
-provide code stats
